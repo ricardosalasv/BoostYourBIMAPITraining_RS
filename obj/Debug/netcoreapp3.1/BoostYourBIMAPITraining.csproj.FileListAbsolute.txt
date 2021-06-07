@@ -79,3 +79,5 @@ C:\Users\Ricardo Salas\source\repos\BoostYourBIMAPITraining\bin\Debug\netcoreapp
 C:\Users\Ricardo Salas\source\repos\BoostYourBIMAPITraining\obj\Debug\netcoreapp3.1\BoostYourBIMAPITraining.csproj.CopyComplete
 C:\Users\Ricardo Salas\source\repos\BoostYourBIMAPITraining\obj\Debug\netcoreapp3.1\BoostYourBIMAPITraining.dll
 C:\Users\Ricardo Salas\source\repos\BoostYourBIMAPITraining\obj\Debug\netcoreapp3.1\BoostYourBIMAPITraining.pdb
+C:\Users\Ricardo Salas\source\repos\BoostYourBIMAPITraining\obj\Debug\netcoreapp3.1\BoostYourBIMAPITraining.myNewForm.resources
+C:\Users\Ricardo Salas\source\repos\BoostYourBIMAPITraining\obj\Debug\netcoreapp3.1\BoostYourBIMAPITraining.csproj.GenerateResource.cache
